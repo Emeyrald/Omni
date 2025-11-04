@@ -25,7 +25,7 @@ This project is fully in python.
   
 ### Usage  
 Run the assistant:  
-```python Omni.py```
+```python Omni.py```  
 Omni will announce that it is online. Speak commands starting with the activation word:  
 
 ```"Omni, say hello"``` - Repeats what you say back to you  
